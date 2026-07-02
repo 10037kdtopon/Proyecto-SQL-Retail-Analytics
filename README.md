@@ -66,22 +66,19 @@ CALL GenerarCalificaciones(100);
 
 ## 📊 Análisis del proyecto
 
-Este modelo permite generar análisis como:
+El modelo de datos desarrollado permite generar un panel de control interactivo enfocado en los tres pilares del negocio, tal como se muestra en la simulación del reporte:
 
-- Ventas por cliente  
-- Ventas por producto  
-- Ventas por ciudad  
-- Ingresos totales  
-- Ticket promedio  
-- Productos más vendidos  
-- Métodos de pago  
-- Rendimiento de ventas  
+* **Ingresos Totales:** Monitoreo financiero del dinero total generado por el negocio, calculando las ventas acumuladas a partir de `retailanalytics_detalleventas`.
+* **Volumen de Ventas:** Control de la cantidad exacta de unidades físicas vendidas para medir la rotación de productos.
+* **Salud de Inventario:** Seguimiento en tiempo real de los artículos disponibles en stock a través de `retailanalytics_inventario` para evitar quiebres de mercancía.
+* **Tendencia Mensual:** Análisis del comportamiento y crecimiento de las ventas a lo largo del tiempo (Enero - Junio).
 
 ---
 
 ## 📊 Indicadores
 
-<img width="947" height="486" alt="image" src="https://github.com/user-attachments/assets/1f957400-b6de-432a-9457-31069ac08ac4" />
+<img width="910" height="456" alt="image" src="https://github.com/user-attachments/assets/7cc89e4c-2b3e-466f-8c0e-dd4a4f4e36bc" />
+
 
 
 ## 🛠️ Tecnologías utilizadas
