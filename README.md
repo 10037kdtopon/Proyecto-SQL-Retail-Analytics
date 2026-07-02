@@ -79,6 +79,11 @@ Este modelo permite generar análisis como:
 
 ---
 
+## 📊 Indicadores
+
+<img width="947" height="486" alt="image" src="https://github.com/user-attachments/assets/1f957400-b6de-432a-9457-31069ac08ac4" />
+
+
 ## 🛠️ Tecnologías utilizadas
 
 - MySQL  
