@@ -30,6 +30,10 @@ El sistema contiene 15 tablas principales:
 📊 Inventario  
 ⭐ Calificaciones  
 
+## 🔗 Indicadores con Power BI
+
+<img width="1536" height="1024" alt="ebe77a7d-0f3e-498e-a741-6f2c09d64251" src="https://github.com/user-attachments/assets/53e8fd7e-9c37-451f-9dcc-e79273c1e098" />
+
 ---
 
 ## 🔗 Relaciones principales
